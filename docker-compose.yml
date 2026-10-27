@@ -1,0 +1,36 @@
+services:
+  market-lab:
+    build: .
+    container_name: market-lab
+    restart: unless-stopped
+    
+    env_file:
+      - .env
+
+    environment:
+      - TZ=America/New_York
+      - PYTHONIOENCODING=utf-8
+      - LANG=C.UTF-8
+      - LC_ALL=C.UTF-8
+
+    volumes:
+      # Mount theories so daily_strategy_check.py is reachable
+      - ./theories:/app/theories
+      
+      # Data is kept in volumes
+      - market_data:/app/data
+      - market_results:/app/results
+
+    command: ["python", "runner.py"]
+    
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+volumes:
+  market_data:
+    name: market_lab_data
+  market_results:
+    name: market_lab_results

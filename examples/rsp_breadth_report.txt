@@ -1,0 +1,58 @@
+📊 RSP BREADTH HYPOTHESIS MONITOR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Market date: 2026-10-27
+
+1️⃣ RSP vs SPY
+──────────────────────────────
+RSP/SPY: 0.2820
+Change: -0.66%
+20DMA: 0.2770 (✓)
+50DMA: 0.2804 (✓)
+vs 20DMA: +1.80%
+vs 50DMA: +0.60%
+RSP regime: 🟢 IMPROVING
+20D relative high: NO
+63D relative high: NO
+252D relative high: NO
+
+2️⃣ S&P 500 BREADTH
+──────────────────────────────
+> 50DMA: 58.8% (295/502)
+> 200DMA: 57.2% (286/500)
+Breadth regime: 🟡 RECOVERY
+
+3️⃣ 3-MONTH INTRA-STOCK CORRELATION
+──────────────────────────────
+Average: 0.109
+Median:  0.112
+Regime: 🟢 LOW
+Stocks: 502
+Pairs: 125,751
+
+4️⃣ HYPOTHESIS CONDITIONS
+──────────────────────────────
+Correlation < 0.200: ✓
+Breadth ≥ 68.0%: ✗
+RSP > 20DMA: ✓
+20DMA > 50DMA: ✗
+
+5️⃣ SIGNAL
+──────────────────────────────
+🟡 WATCH
+Score: 2/4
+Market structure is mixed.
+
+6️⃣ DYNAMIC MARKET STATE
+──────────────────────────────
+Correlation: 🟢 LOW
+Breadth: 🟡 RECOVERY
+RSP relative strength: 🟢 IMPROVING
+
+7️⃣ INTERPRETATION
+──────────────────────────────
+✓ Very low correlation: stocks are moving less in sync.
+✗ Breadth is weak.
+✓ RSP above 20DMA.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+

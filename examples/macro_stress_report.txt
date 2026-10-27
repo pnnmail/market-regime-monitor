@@ -1,0 +1,132 @@
+
+Loading macro data...
+
+Trading days loaded: 1259
+Period: 2021-10-27 -> 2026-10-27
+
+Using market date: 2026-10-27
+
+MACRO STRESS / DISLOCATION MONITOR
+======================================
+Market date: 2026-10-27
+
+1. LONG TREASURY BONDS
+--------------------------------------
+TLT: 81.60
+20DMA: 79.09 OK
+50DMA: 80.55 OK
+200DMA: 84.72 NO
+20-day change: +4.30%
+63-day change: -1.51%
+252-day change: -10.80%
+
+TLT / IEF:
+Current ratio: 0.8961
+20DMA: 0.8797 OK
+50DMA: 0.8852 OK
+63D relative change: +0.77%
+
+TLT / SHY:
+63D relative change: -0.87%
+
+2. VOLATILITY
+--------------------------------------
+VIX: 17.55
+20DMA: 16.73
+50DMA: 16.03
+252D percentile: 57.1%
+20-day change: +9.41%
+VIX regime: LOW
+
+3. EQUITIES
+--------------------------------------
+SPY: 769.26
+20DMA: 770.39 NO
+50DMA: 767.52 OK
+200DMA: 727.76 OK
+20D return: +0.66%
+63D return: +5.46%
+252D return: +13.59%
+
+4. CREDIT MARKET
+--------------------------------------
+HYG: 77.44
+LQD: 104.26
+HYG/LQD: 0.7427
+20DMA: 0.7493 NO
+50DMA: 0.7504 NO
+20D change: -1.68%
+63D change: -0.44%
+
+5. MACROECONOMIC INDICATORS
+--------------------------------------
+10Y Treasury yield: 4.99%
+10Y 20-day change: -4.95%
+The 10Y yield is falling.
+This supports the hypothesis of rising duration demand.
+DXY: 102.25
+DXY 20-day change: +0.87%
+
+6. CURRENT MARKET STATE
+--------------------------------------
+MIXED
+
+Duration score: 1/3
+Equity score: 2/3
+Credit score: 0/2
+Macro dislocation points: 3/6
+
+MAIN CONCLUSION:
+The market is not in one clean regime. Some indicators point to risk-on, some to a defensive move or macroeconomic uncertainty. In such a situation a single signal cannot be treated as a standalone trading signal.
+
+MARKET INTERPRETATION
+------------------------------
+1. BONDS:
+TLT shows no steady rise.
+2. 10Y YIELD:
+The 10-year Treasury yield is falling.
+Implication: bond prices get support, and the market starts pricing in lower future yields.
+3. VIX:
+VIX is in a relatively calm zone.
+4. EQUITIES:
+SPY is above the 50DMA and 200DMA.
+Implication: the medium- and long-term trend remains constructive.
+5. CREDIT:
+HYG/LQD has weakened.
+Implication: the credit market is starting to confirm rising risk.
+
+6. MAIN CONCLUSION:
+The market is in a transitional or uncertain state.
+
+7. HOW TO READ THIS THEORY
+--------------------------------------
+Normal risk-on:
+SPY rising + credit healthy + VIX low + TLT shows no strong outperformance.
+
+Early warning:
+TLT starts rising and outperforming IEF/SHY, but SPY and credit are still strong.
+
+MACRO DISLOCATION:
+TLT rising + 10Y yield falling + SPY stays strong + VIX low + credit healthy.
+
+MACRO STRESS:
+Treasuries strong + equities start weakening + credit deteriorating.
+
+RISK-OFF:
+Treasuries strong + equities weak + credit weak + VIX high.
+
+IMPORTANT:
+MACRO DISLOCATION does not automatically mean a market decline.
+It is a signal that the bond market may be seeing a change in future economic conditions before the equity market.
+
+The main question after a dislocation is detected:
+Will credit and VIX confirm this move?
+
+If credit stays strong and VIX low, it may simply be an expectation of lower rates or inflation.
+
+If credit starts falling and VIX rises, the divergence turns into a more serious MACRO STRESS.
+
+If SPY then loses the 50DMA and then the 200DMA, the hypothesis gets confirmation from equities as well.
+
+======================================
+

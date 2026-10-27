@@ -1,0 +1,143 @@
+
+Loading market macro data...
+
+Trading days loaded: 756
+Period: 2023-10-27 → 2026-10-27
+
+Using market date: 2026-10-27
+
+📊 DURATION / VOLATILITY REGIME MONITOR
+SECOND MARKET THEORY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Market date: 2026-10-27
+
+1️⃣ LONG US TREASURY BONDS
+──────────────────────────────
+TLT: 81.60
+20DMA: 79.09 (✓ above)
+50DMA: 80.55 (✓ above)
+200DMA: 84.72 (✗ below)
+TLT 20-day return: +4.30%
+TLT 63-day return: -1.51%
+TLT 252-day return: -10.80%
+
+What this means:
+→ Long-duration Treasuries currently have a positive medium-term structure.
+→ Over the last ~3 months TLT has fallen.
+
+TLT / IEF — long duration vs intermediate duration:
+Ratio: 0.8961
+20DMA: 0.8797 (✓)
+50DMA: 0.8852 (✓)
+63-day change: +0.77%
+→ Long duration is currently stronger than intermediate relative to its recent average.
+
+2️⃣ VIX — EXPECTED VOLATILITY
+──────────────────────────────
+VIX: 17.55
+20DMA: 16.73
+50DMA: 16.03
+Position within 252 days: 57.1 percentile
+VIX 20-day change: +9.41%
+VIX regime: 🟢 LOW
+What this means: The market shows no pronounced fear.
+
+3️⃣ EQUITY MARKET — SPY
+──────────────────────────────
+SPY: 769.41
+20DMA: 770.40 (✗ below)
+50DMA: 767.52 (✓ above)
+200DMA: 727.76 (✓ above)
+20D: +0.68%
+63D: +5.48%
+252D: +13.61%
+
+→ SPY keeps a strong medium-term and long-term structure.
+
+4️⃣ CREDIT MARKET
+──────────────────────────────
+HYG: 77.44
+LQD: 104.26
+HYG/LQD: 0.7427
+20DMA: 0.7493 (✗ below)
+50DMA: 0.7504 (✗ below)
+20D change: -1.68%
+63D change: -0.44%
+
+→ The credit structure is starting to deteriorate.
+→ This matters because credit often starts showing stress before a full risk-off becomes obvious in the broad equity market.
+
+5️⃣ MACRO BACKDROP
+──────────────────────────────
+10Y Treasury yield: 4.99%
+20-day change: -4.95%
+→ The 10-year Treasury yield is falling. This is consistent with rising bond prices.
+DXY: 102.25
+DXY 20-day change: +0.87%
+
+6️⃣ CURRENT MARKET STATE
+──────────────────────────────
+🟡 MIXED
+
+Duration score: 0/2
+Equity score: 2/3
+Credit score: 0/2
+
+Main conclusion:
+Signals from different market segments are mixed. Neither full risk-on nor full risk-off is confirmed yet.
+
+8️⃣ WHAT IS HAPPENING NOW
+──────────────────────────────
+• BONDS: long Treasuries are above the 50DMA and show positive 63-day momentum. This means that demand for duration cannot currently be considered a random one-day move.
+  → TLT is also stronger relative to IEF. I.e. within Treasuries demand is shifted towards longer duration.
+• VIX: low/moderate. No panic demand for protection yet.
+• EQUITIES: SPY is above the 50DMA and 200DMA. The medium- and long-term trends remain positive.
+• CREDIT: HYG/LQD below the 20DMA. Caution is appearing in the credit market.
+
+9️⃣ PUTTING IT INTO ONE PICTURE
+──────────────────────────────
+The market is in a transition zone.
+Signals do not add up to a stable risk-on or risk-off regime.
+
+🔟 THEORY SIGNAL MAP
+──────────────────────────────
+TLT ↑ + VIX ↓ + SPY ↑ + CREDIT ↑
+→ MACRO DISLOCATION
+Bonds are warning, while the risk market is calm for now.
+
+TLT ↑ + SPY ↓ + CREDIT ↓ + VIX ↑
+→ RISK-OFF
+Defensive assets and risk indicators already confirm each other.
+
+SPY ↑ + CREDIT ↑ + VIX ↓ + TLT neutral
+→ RISK-ON / HEALTHY
+Risk markets are consistent with each other.
+
+SPY ↑ + CREDIT ↑ + VIX ↓ + TLT ↑
+→ MAIN OBSERVATION ZONE
+This is not an immediate exit signal. It is a situation where one needs to watch whether the equity market starts confirming the bond market's macro signal.
+
+1️⃣1️⃣ WHAT TO WATCH NEXT
+──────────────────────────────
+1. VIX
+If VIX starts rising steadily from extremely low levels, that will be the first confirmation of rising perceived risk.
+
+2. HYG/LQD
+If HYG/LQD drops below the 20DMA and then the 50DMA, credit will start confirming macroeconomic deterioration.
+
+3. SPY
+If SPY loses the 50DMA and then the 200DMA, the divergence between bonds and equities will start turning into a full risk-off.
+
+4. TLT
+If TLT keeps strengthening and TLT/IEF strengthens at the same time, the signal of strong demand for duration will become more convincing.
+
+5. 10Y YIELD
+A fall in the 10-year Treasury yield together with a rise in TLT will be additional confirmation of the move towards lower yields.
+
+1️⃣2️⃣ SUMMARY
+──────────────────────────────
+The market is in a transitional or mixed state.
+Need to wait for confirmation from several independent indicators.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
